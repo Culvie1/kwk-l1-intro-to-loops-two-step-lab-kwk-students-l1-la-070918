@@ -6,7 +6,7 @@ def first_steps
     sleep
     puts "Right foot back"
     sleep
-    
+    break
   # Write a loop that outputs "Right foot back", "Left foot back",
   # "Right foot back", and "Stop", with sleep after each
 end
